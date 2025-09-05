@@ -1,0 +1,33 @@
+{
+  "name": "ruizamdev-portfolio",
+  "version": "1.0.0",
+  "description": "Armando Ruiz <@ruizamdev> Portfolio, Frontend Developer",
+  "keywords": [
+    "frontend",
+    "web",
+    "design",
+    "web",
+    "development",
+    "portfolio"
+  ],
+  "homepage": "https://github.com/ruizamdev/ruizamdev-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/ruizamdev/ruizamdev-portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruizamdev/ruizamdev-portfolio.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Armando Ruiz <artmx@proton.me>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "tailwindcss": "^4.1.13",
+    "vite": "^7.1.4"
+  }
+}
